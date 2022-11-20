@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Sergio Castellano 👋
 
+<img align = "Left" width = "47%" src = "https://github-readme-stats.vercel.app/api?username=SCASTELLANO6044&show_icons=true&theme=radical" />
+<img align = "Right" width = "47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SCASTELLANO6044&layout=compact" />
 <!--
 **SCASTELLANO6044/SCASTELLANO6044** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
