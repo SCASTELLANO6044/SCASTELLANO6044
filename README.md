@@ -1,4 +1,4 @@
-# Hi there, I'm Sergio Castellano 👋
+# 😄 Hi there, I'm Sergio Castellano 👋
 ## 🔭 I’m currently working on Subsea Mechatronics
 ### 📫 How to reach me: sergiocastellanotrabajo@gmail.com
 
