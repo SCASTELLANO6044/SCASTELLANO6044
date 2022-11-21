@@ -1,6 +1,7 @@
 # 😄 Hi there, I'm Sergio Castellano 👋
 ## 🔭 I’m currently working on Subsea Mechatronics
 ### 📫 How to reach me: sergiocastellanotrabajo@gmail.com
+### ❤️ Open Source world
 
 <img align = "Left" width = "47%" src = "https://github-readme-stats.vercel.app/api?username=SCASTELLANO6044&show_icons=true&theme=radical" />
 <img align = "Right" width = "47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SCASTELLANO6044&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
