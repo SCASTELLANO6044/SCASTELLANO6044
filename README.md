@@ -1,5 +1,5 @@
 # 😄 Hi there, I'm Sergio Castellano 👋
-## 🔭 I’m currently working on Subsea Mechatronics
+## 🔭 I’m currently a student of Universidad de Las Palmas de Gran Canaria
 ### 📫 How to reach me: sergiocastellanotrabajo@gmail.com
 ### ❤️ Open Source world
 
