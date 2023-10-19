@@ -4,7 +4,7 @@
 ### 📫 How to reach me: sergiocastellanotrabajo@gmail.com
 ### ❤️ Open Source world
 
-<img align = "Right" width = "47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SCASTELLANO6044&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img align = "Center" width = "47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SCASTELLANO6044&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <!--
 **SCASTELLANO6044/SCASTELLANO6044** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
